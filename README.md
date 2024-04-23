@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi there! Im Kevin 👋🏼
 
+Passionate Frontend Developer with a strong skill set in React.js, JavaScript, CSS, and UI/UX design. With a keen eye for detail and a deep understanding of frontend technologies, I specialize in creating intuitive and visually appealing user interfaces that elevate the overall user experience.
+I'm excited to contribute my expertise to projects that push the boundaries of frontend development. Let's build something amazing together!
+
+## ⚙️ Lenguages and technologies 
+
+![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=3d3919)
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410)
+![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
 <!--
 **KevinSgz/KevinSgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
